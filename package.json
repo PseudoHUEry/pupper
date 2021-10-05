@@ -1,0 +1,25 @@
+{
+  "name": "pupper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js && echo \" Iniciando server de teste \" )",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PseudoHUEry/pupper.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PseudoHUEry/pupper/issues"
+  },
+  "homepage": "https://github.com/PseudoHUEry/pupper#readme",
+  "dependencies": {
+    "nodemon": "^2.0.13",
+    "puppeteer": "^10.4.0"
+  },
+  "devDependencies": {}
+}
